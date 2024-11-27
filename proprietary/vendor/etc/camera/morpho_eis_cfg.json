@@ -1,0 +1,25 @@
+{
+    /*
+    "0x80A4": {                 // 匹配operationMode，请使用十六进制，字母大写，如0x80A4
+        "eisMode": -1,          // 如需使用代码默认配置，设为-1
+        "eisOption": -1,        // 如需使用代码默认配置，设为-1
+        "frameDelay": -1,       // 如需使用代码默认配置，设为-1，仅eisv3 node生效，默认30
+        "widthMargin": 0.2,     // 如需使用代码默认配置，设为-1，默认0.2
+        "heightMargin": 0.2     // 如需使用代码默认配置，设为-1，默认0.2
+    }
+    */
+    "0x80A4": {
+        "eisMode": -1,
+        "eisOption": -1,
+        "frameDelay": 30,
+        "widthMargin": 0.2,
+        "heightMargin": 0.2
+    },
+    "0x800B": {
+        "eisMode": -1,
+        "eisOption": -1,
+        "frameDelay": 30,
+        "widthMargin": 0.2,
+        "heightMargin": 0.2
+    }
+}
